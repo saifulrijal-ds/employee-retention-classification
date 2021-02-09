@@ -1,0 +1,5 @@
+Questions:
+1. One hot or get dummy?
+2. About multicollinearity, how about drop a column from one-hot or get dummy result?
+3. How to get feature importance for categorical feature (get dummy)?
+4. Is scaling efect to model that is not distace base?
